@@ -35,6 +35,10 @@ Level juga menentukkan cepat lambatnya musuh dalam menyerang dan banyak sedikitn
 Enemy dalam game ini berupa karakter penajajah sesuai tingkat level yang dipilih. Enemy menggunakan senjata yang digunakan untuk menyerang player. Jika enemy berhasil menyerang player dan senjata mengenai player, maka player akan kekurangan HP dan semakin berkurang akan mati. Player menyerang enemy hingga HP enemy sedikit dan lama-kelamaan akan mati.
 
 # HP
-Health Point 
+1. Health Point player
+Health Point untuk 1 player maupun 2 player berjumlah sama yaitu    . Health point player tidak akan bertambah tetapi akan berkurang. Dalam game ini player diminta untuk mempertahankan health point agar tidak berkurang dan habis. Health point player akan berkurang jika player terkena tembakan oleh musuh. Jumlah health point yang berkurang adalah sama dalam setiap levelnya. Jika level semakin susah maka health pont yang berkurang akan semakin kecil.
+2. Health Point Enemy
+Health Point untuk enemy berjumlah    . Health Point tidak akan bertambah tetapi berkurang. Berkurangnya health point sesuai tembakan player yang mengenai musuh. Susah level yang dipilih, semakin kecil health point yang berkurang.
 
 # Heart
+Heart menunjukkan nyawa player dalam bermain. Terdapat 3 heart yang diberikan. Heart akan hilang satu per satu dan akhirnya game akan berakhir dan kalah. Heart akan berkurang satu jika health point player dalam 1 heart sudah habis. Jika health point habis dan ketiga heart telah habis maka game akan berakhir dan player mati.
