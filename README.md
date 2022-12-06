@@ -1,4 +1,4 @@
-# IndpendentShooterGame
+# IndependentShooterGame
 
 # Hi, there we are team 3 - SpaceShooterGame
 
