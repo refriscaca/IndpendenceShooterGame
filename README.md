@@ -4,10 +4,10 @@
 
 # Anggota kelompok:
 
-- Aisyah Aira Maharani Putri (
-- Alimudinsyah Alrasyid (
-- Ilpi Yuditia Mulyana (
-- Lintang Gemilang (
+- Aisyah Aira Maharani Putri (210
+- Alimudinsyah Alrasyid (210
+- Ilpi Yuditia Mulyana (210
+- Lintang Gemilang (210
 - Refrisca Lintang Pramesti (2103164)
 
 # Independence Shooter Game
@@ -35,6 +35,3 @@ Enemy dalam game ini berupa karakter penjajah sesuai tingkat level yang dipilih.
 Health Point untuk 1 player maupun 2 player berjumlah sama yaitu    . Health point player tidak akan bertambah tetapi akan berkurang. Dalam game ini player diminta untuk mempertahankan health point agar tidak berkurang dan habis. Health point player akan berkurang jika player terkena tembakan oleh musuh. Jumlah health point yang berkurang adalah sama dalam setiap levelnya. Jika level semakin susah maka health pont yang berkurang akan semakin kecil.
 2. Health Point Enemy
 Health Point untuk enemy berjumlah    . Health Point tidak akan bertambah tetapi berkurang. Berkurangnya health point sesuai tembakan player yang mengenai musuh. Susah level yang dipilih, semakin kecil health point yang berkurang.
-
-# Heart
-Heart menunjukkan nyawa player dalam bermain. Terdapat 3 heart yang diberikan. Heart akan hilang satu per satu dan akhirnya game akan berakhir dan kalah. Heart akan berkurang satu jika health point player dalam 1 heart sudah habis. Jika health point habis dan ketiga heart telah habis maka game akan berakhir dan player mati.
