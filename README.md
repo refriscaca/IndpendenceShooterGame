@@ -1,4 +1,4 @@
-# IndependentShooterGame
+# IndependentsShooterGame
 
 # Hi, there we are team 3 - SpaceShooterGame
 
@@ -10,10 +10,7 @@
 - Lintang Gemilang (
 - Refrisca Lintang Pramesti (2103164)
 
-# Space Shooter Game
-Permainan ini biasanya berupa permainan tembak-tembakan yang berlatar di luar angkasa. Dengan player berupa pesawat yang akan menembaki musuh-musuh seperti alien jahat yang mencoba menyerang player menggunakan senjatanya beruba tembakan-tembakan. Player dicoba untuk melawan alien-alien tersebut menggunakan senjata yang berupa tembakan. Player menyerang alien-alien tersebut hingga alien tersebut berkurang health poitnya lalu mati.
-
-# Independent Shooter Game
+# Independents Shooter Game
 Permainan ini merupakan bentuk inovasi dari game Space Shooter Game. Konsep permainan ini sama seperti game tersebut. Namun untuk tema, objek dan latar permainan berbeda dari game space shooter. Kami menggunakan tema Independent yang dimana objek-objek yang digunakan menggunakan tema kemerdekaan Indonesia. Terdapat 3 level tingkat kesusahan game serta player yang bisa dipilih antara 1 player maupun 2 player. Level-level tersebut menggunakan nama-nama bangsa penjajah yang pernah menjajah Indonesia dan player yang digunakan sesuai karakter pahlawan bangsa yang menyerang para penjajah. Player akan menyerang musuh dengan menggunakan senjata hingga musuh mati.
 
 # Player
