@@ -11,7 +11,7 @@
 - Refrisca Lintang Pramesti (2103164)
 
 # Independence Shooter Game
-Permainan ini merupakan game tembak-menembak dengan menggunakan konsep bangsa Indonesia saat zaman penjajahan. Pada saat zaman penjajahan, Indonesia menyerang menggunakan senjata berupa bambu runcing. Misi permainan ini adalah mengalahkan musuh dengan menembak lalu mempertahankan health point player agar tidak berkurang dan habis. Player harus bisa menghindari musuh agar tidak terkena tembakan serta tidak tertabrak oleh musuh. Musuh-musuh tersebut yang nantinya akan menyebabkan berkurangnya health point player dan menyebabkan player mati.
+Permainan ini merupakan game ber-genre shooter dengan menggunakan konsep bangsa Indonesia saat zaman penjajahan. Pada saat zaman penjajahan, Indonesia menyerang menggunakan senjata berupa bambu runcing. Misi permainan ini adalah mengalahkan musuh dengan menembak lalu mempertahankan health point player agar tidak berkurang dan habis. Player harus bisa menghindari musuh agar tidak terkena tembakan serta tidak tertabrak oleh musuh. Musuh-musuh tersebut yang nantinya akan menyebabkan berkurangnya health point player dan menyebabkan player mati.
 
 # Player
 Player dalam permainan ini dapat dimainkan oleh 1 player maupun 2 player sesuai keinginan pemain. Player 1, jika dimainkan oleh 1 orang dan 2 player jika dimainkan oleh 2 orang. Objek player yang kami gunakan adalah karakter pahlawan Indonesia yang melawan penjajah-penjajah Indonesia. Karakter ini dibedakan berdasarkan Health Point para pahlawan. Player juga bisa memilih karakter yang telah disediakan. Diantaranya:
@@ -22,10 +22,10 @@ Player dalam permainan ini dapat dimainkan oleh 1 player maupun 2 player sesuai 
 5. Pangeran Dipenogoro
 
 # Level
-Level yang kami sediakan terdapat 3 level sesuai tingkat kesusahan game. Player dapat memilih level sesuai keinginan. Tingkat kesusahan game yang kami gunakan adalah nama bangsa-bangsa yang telah menjajah Indonesia sesuai dengan lamanya mereka menjajah. Semakin lama bangsa tersebut menajajah maka semakin susah levelnya. 3 level yang kami sediakan diantaranya:
-1. Level Easy:
-2. Level Medium:
-3. Level Hard:
+Level yang kami sediakan terdapat 3 level sesuai tingkat kesusahan game. Player dapat memilih level sesuai keinginan. Tingkat kesusahan game yang kami gunakan adalah nama bangsa-bangsa yang pernah. Semakin lama bangsa tersebut menajajah maka semakin susah levelnya. 3 level yang kami sediakan diantaranya:
+1. Level Easy: Portugis
+2. Level Medium: Belanda
+3. Level Hard: Jepang
 Level juga menentukkan cepat lambatnya musuh dalam menyerang dan banyak sedikitnya jumlah musuh. Semakin susah level yang dipilih makam musuh akan bergerak semakin cepat dan jumlahnya semakin banyak.
 
 # Enemy
