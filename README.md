@@ -23,12 +23,9 @@ Player dalam permainan ini dapat dimainkan oleh 1 player maupun 2 player sesuai 
 
 # Level
 Level yang kami sediakan terdapat 3 level sesuai tingkat kesusahan game. Player dapat memilih level sesuai keinginan. Tingkat kesusahan game yang kami gunakan adalah nama bangsa-bangsa yang pernah. Level juga menentukkan cepat lambatnya musuh dalam menyerang dan banyak sedikitnya jumlah musuh. Semakin susah level yang dipilih maka musuh akan bergerak semakin cepat dan jumlahnya semakin banyak. 3 level yang kami sediakan diantaranya:
-1. Level Portugis (Easy)
-Portugis merupakan negara yang pertama kali menjajah Indonesia pada 1509-1595. Mulanya, Portugis memang sudah mempunyai jaringan perdagangan yang besar di Malaka. Namun, Alfonso de Albuquerque mengirim ekspedisi yang dipimpin Antonio de Abreu untuk mencari daerah kaya rempah-rempah di Nusantara.
-2. Level Belanda (Medium)
-Penjajahan dilakukan selama 350 tahun dan menjadi penjajahan terlama di Indonesia. Alasan utama penjajahan Belanda adalah untuk menguasai wilayah penghasil rempah-rempah.
-3. Level Jepang (Hard)
-Jepang menjajah Indonesia selama 3,5 tahun. Jepang bahkan menerapkan sistem kerja paksa alias romusha terhadap rakyat Indonesia. Selain itu, Jepang juga membangun organisasi militer dan memaksa rakyat untuk ikut agar bisa menjadi sumber daya perang melawan Amerika Serikat dan sekutunya di Perang Dunia II.
+1. Level Portugis (Easy): Portugis merupakan negara yang pertama kali menjajah Indonesia pada 1509-1595. Mulanya, Portugis memang sudah mempunyai jaringan perdagangan yang besar di Malaka. Namun, Alfonso de Albuquerque mengirim ekspedisi yang dipimpin Antonio de Abreu untuk mencari daerah kaya rempah-rempah di Nusantara.
+2. Level Belanda (Medium): Penjajahan dilakukan selama 350 tahun dan menjadi penjajahan terlama di Indonesia. Alasan utama penjajahan Belanda adalah untuk menguasai wilayah penghasil rempah-rempah.
+3. Level Jepang (Hard): Jepang menjajah Indonesia selama 3,5 tahun. Jepang bahkan menerapkan sistem kerja paksa alias romusha terhadap rakyat Indonesia. Selain itu, Jepang juga membangun organisasi militer dan memaksa rakyat untuk ikut agar bisa menjadi sumber daya perang melawan Amerika Serikat dan sekutunya di Perang Dunia II.
 
 # Enemy
 Enemy dalam game ini berupa karakter penjajah sesuai tingkat level yang dipilih. Enemy menggunakan senjata untuk menyerang player. Jika enemy berhasil menyerang player dengan tembakan mengenai player dan menabrak player, maka player akan kekurangan HP dan mati. Enemy akan mati jika player menembak dan mengenai enemy yang lama kelamaan health point enemy akan berkurang dan habis.
