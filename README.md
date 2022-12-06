@@ -1,6 +1,6 @@
-# IndependentsShooterGame
+# IndependenceShooterGame
 
-# Hi, there we are team 3 - SpaceShooterGame
+# Hi, there we are team 3 - IndependenceShooterGame
 
 # Anggota kelompok:
 
@@ -10,11 +10,11 @@
 - Lintang Gemilang (
 - Refrisca Lintang Pramesti (2103164)
 
-# Independents Shooter Game
-Permainan ini merupakan bentuk inovasi dari game Space Shooter Game. Konsep permainan ini sama seperti game tersebut. Namun untuk tema, objek dan latar permainan berbeda dari game space shooter. Kami menggunakan tema Independent yang dimana objek-objek yang digunakan menggunakan tema kemerdekaan Indonesia. Terdapat 3 level tingkat kesusahan game serta player yang bisa dipilih antara 1 player maupun 2 player. Level-level tersebut menggunakan nama-nama bangsa penjajah yang pernah menjajah Indonesia dan player yang digunakan sesuai karakter pahlawan bangsa yang menyerang para penjajah. Player akan menyerang musuh dengan menggunakan senjata hingga musuh mati.
+# Independence Shooter Game
+Permainan ini merupakan game tembak-menembak dengan menggunakan konsep bangsa Indonesia saat zaman penjajahan. Pada saat zaman penjajahan, Indonesia menyerang menggunakan senjata berupa bambu runcing. Misi permainan ini adalah mengalahkan musuh dengan menembak lalu mempertahankan health point player agar tidak berkurang dan habis. Player harus bisa menghindari musuh agar tidak terkena tembakan serta tidak tertabrak oleh musuh. Musuh-musuh tersebut yang nantinya akan menyebabkan berkurangnya health point player dan menyebabkan player mati.
 
 # Player
-Player dalam permainan ini dapat dimainkan oleh 1 player maupun 2 player sesuai keinginan pemain. Player 1, jika dimainkan oleh 1 orang dan 2 player jika dimainkan oleh 2 orang. Objek player yang kami gunakan adalah karakter pahlawan Indonesia yang melawan penjajah-penjajah Indonesia. Karakter ini dibedakan berdasarkan Healthy Point para pahlawan. Player juga bisa memilih karakter yang telah disediakan. Diantaranya:
+Player dalam permainan ini dapat dimainkan oleh 1 player maupun 2 player sesuai keinginan pemain. Player 1, jika dimainkan oleh 1 orang dan 2 player jika dimainkan oleh 2 orang. Objek player yang kami gunakan adalah karakter pahlawan Indonesia yang melawan penjajah-penjajah Indonesia. Karakter ini dibedakan berdasarkan Health Point para pahlawan. Player juga bisa memilih karakter yang telah disediakan. Diantaranya:
 1. Jenderal Soedirman
 2. Pattimura
 3. Tuanku Imam Bonjol
@@ -26,10 +26,10 @@ Level yang kami sediakan terdapat 3 level sesuai tingkat kesusahan game. Player 
 1. Level Easy:
 2. Level Medium:
 3. Level Hard:
-Level juga menentukkan cepat lambatnya musuh dalam menyerang dan banyak sedikitnya jumlah musuh. Semakin susah level yang dipilih makammusuh akan bergerak semakin cepat dan jumlahnya semakin banyak.
+Level juga menentukkan cepat lambatnya musuh dalam menyerang dan banyak sedikitnya jumlah musuh. Semakin susah level yang dipilih makam musuh akan bergerak semakin cepat dan jumlahnya semakin banyak.
 
 # Enemy
-Enemy dalam game ini berupa karakter penajajah sesuai tingkat level yang dipilih. Enemy menggunakan senjata yang digunakan untuk menyerang player. Jika enemy berhasil menyerang player dan senjata mengenai player, maka player akan kekurangan HP dan semakin berkurang akan mati. Player menyerang enemy hingga HP enemy sedikit dan lama-kelamaan akan mati.
+Enemy dalam game ini berupa karakter penjajah sesuai tingkat level yang dipilih. Enemy menggunakan senjata untuk menyerang player. Jika enemy berhasil menyerang player dengan tembakan mengenai player dan menabrak player, maka player akan kekurangan HP dan mati. Enemy akan mati jika player menembak dan mengenai enemy yang lama kelamaan health point enemy akan berkurang dan habis.
 
 # HP
 1. Health Point player
