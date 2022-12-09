@@ -31,7 +31,5 @@ Level yang kami sediakan terdapat 3 level sesuai tingkat kesusahan game. Player 
 Enemy dalam game ini berupa karakter penjajah sesuai tingkat level yang dipilih. Enemy menggunakan senjata untuk menyerang player. Jika enemy berhasil menyerang player dengan tembakan mengenai player dan menabrak player, maka player akan kekurangan HP dan mati. Enemy akan mati jika player menembak dan mengenai enemy yang lama kelamaan health point enemy akan berkurang dan habis.
 
 # HP
-1. Health Point player
-Health Point untuk 1 player maupun 2 player berjumlah sama yaitu    . Health point player tidak akan bertambah tetapi akan berkurang. Dalam game ini player diminta untuk mempertahankan health point agar tidak berkurang dan habis. Health point player akan berkurang jika player terkena tembakan oleh musuh. Jumlah health point yang berkurang adalah sama dalam setiap levelnya. Jika level semakin susah maka health pont yang berkurang akan semakin kecil.
-2. Health Point Enemy
-Health Point untuk enemy berjumlah    . Health Point tidak akan bertambah tetapi berkurang. Berkurangnya health point sesuai tembakan player yang mengenai musuh. Susah level yang dipilih, semakin kecil health point yang berkurang.
+1. Health Point player: Health Point untuk 1 player maupun 2 player berjumlah sama yaitu    . Health point player tidak akan bertambah tetapi akan berkurang. Dalam game ini player diminta untuk mempertahankan health point agar tidak berkurang dan habis. Health point player akan berkurang jika player terkena tembakan oleh musuh. Jumlah health point yang berkurang adalah sama dalam setiap levelnya. Jika level semakin susah maka health pont yang berkurang akan semakin kecil.
+2. Health Point Enemy: Health Point untuk enemy berjumlah    . Health Point tidak akan bertambah tetapi berkurang. Berkurangnya health point sesuai tembakan player yang mengenai musuh. Susah level yang dipilih, semakin kecil health point yang berkurang.
