@@ -4,10 +4,10 @@
 
 # Anggota kelompok:
 
-- Aisyah Aira Maharani Putri (210
-- Alimudinsyah Alrasyid (210
-- Ilpi Yuditia Mulyana (210
-- Lintang Gemilang (210
+- Aisyah Aira Putri Maharani (2102727)
+- Alimudinsyah Alrasyid (2100044)
+- Ilpi Yuditia Mulyana (2102056)
+- Lintang Gemilang (2106021)
 - Refrisca Lintang Pramesti (2103164)
 
 # Independence Shooter Game
