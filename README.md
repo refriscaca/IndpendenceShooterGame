@@ -1,5 +1,8 @@
 # IndependenceShooterGame
 
+| [:sparkles: Player](#player) | [:rocket: Level](#level) | [:camera: Enemy](#enemy) | [:camera: HP](#hp) |
+| --------------- | -------- | ----------- | ----------- |
+
 # Hi, there we are team 3 - IndependenceShooterGame
 
 # Anggota kelompok:
