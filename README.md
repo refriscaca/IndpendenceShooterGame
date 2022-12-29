@@ -1,6 +1,6 @@
 # IndependenceShooterGame
 
-| [👨‍💻 Player](#player) | [📈 Level](#level) | [👾 Enemy](#enemy) | [👨‍💻 HP](#hp) |
+| [👨‍💻 Player](#player) | [📈 Level](#level) | [👾 Enemy](#enemy) | [💗 HP](#hp) |
 | --------------- | -------- | ----------- | ----------- |
 
 # Hi, there we are team 3 - IndependenceShooterGame
